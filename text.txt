@@ -1,3 +1,2 @@
 FirstName	LastName	Email
 Jay	Kaenampornpan	manasaweek@gmail.com
-Wongsatorn	Chanprasopchai	55011212103@it.msu.ac.th
